@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Silka";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Silka"), url("/assets/fonts/Silka-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Silka Italic";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Silka Italic"), url("/assets/fonts/Silka-RegularItalic.woff") format("woff");
+}
